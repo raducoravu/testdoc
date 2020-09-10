@@ -1,8 +1,0 @@
-# / Row Selection Prompt
-
-If / is entered for a row selection, the following pop-up menu is presented to assist the user:
-
-![](media/img(25).png)
-
-**Parent topic:**[The ZIGI Local Repositories Panel](zOS_ISPF_Git_Interface_Users_Guide_V3R0_the_zigi_local_repositories_panel.html)
-
